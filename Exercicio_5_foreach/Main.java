@@ -9,8 +9,7 @@ public class Main {
         //     System.out.println(estudante);
         // }
         String[] campeonatos = {"Libertadores", "Copa_do_Brasil", "Brasileirao"};
-        for( String titulos : campeonatos){
-            System.out.println(titulos);
+        for(int i=0; i<campeonatos.length;i++){
         }
 
         
