@@ -9,6 +9,7 @@ public class Main {
         System.out.println(persona.poder);
         persona.pular();
         persona.correr();
+      
     }
 }
    
