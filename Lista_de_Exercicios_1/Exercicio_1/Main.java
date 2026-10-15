@@ -1,5 +1,3 @@
-package Lista_de_Exercicios.Exercicio_1;
-
 public class Main {
     public static void main(String[] args) {
         int num2 = 9;
